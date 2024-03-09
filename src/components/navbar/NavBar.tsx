@@ -1,4 +1,3 @@
-import { SouthRounded } from '@mui/icons-material';
 import logo_alienblaster from '../../assets/logo_alienblaster.png'
 import './NavBar.css'
 import SoundSlider001 from '../sliders/SoundSlider001';
