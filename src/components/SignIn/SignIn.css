@@ -1,0 +1,46 @@
+.SignInBox {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 17px;
+    padding-bottom: 9%;
+    border: 1px solid #ccc;
+    border-radius: 9px;
+    background-color: #fff;
+    box-shadow: 0 14px 17px #ddd;
+}
+
+.doorGuy {
+    width: 45%;
+    margin: -1% auto;
+    border-radius: 9px;
+    margin-top: -22%;
+    margin-bottom: 1%;
+}
+
+img.doorGuy {
+    border: 1px solid #938ac0;
+    box-shadow: 0 14px 17px #ddd;
+
+}
+
+a.MuiTypography-root.MuiTypography-body2.MuiLink-root.MuiLink-underlineAlways.css-101ca9i-MuiTypography-root-MuiLink-root {
+    color: darkblue;
+}
+
+input#password {
+    background-color: white;
+    border: 1px solid black;
+}
+
+input#email {
+    background-color: whitesmoke;
+    border: 1px solid black;
+}
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-colorPrimary.MuiButton-fullWidth.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-colorPrimary.MuiButton-fullWidth.css-1vhaqj4-MuiButtonBase-root-MuiButton-root {
+    border: 2px solid black;
+    background-color: black;
+    font-size: 1.5rem;
+    font-weight: 900;
+}

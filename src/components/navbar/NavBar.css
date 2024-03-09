@@ -25,3 +25,7 @@
 .navbar a:hover {
     color: #ff0000;
 }
+
+nav.navbar {
+    margin-bottom: 20px;
+}
