@@ -1,20 +1,10 @@
-.SignInBox {
-    width: 100%;
-    max-width: 100%;
-    margin: 0 auto;
-    padding: 17px;
-    padding-bottom: 9%;
-    border: 1px solid #ccc;
-    border-radius: 9px;
-    background-color: #fff;
-    box-shadow: 0 14px 17px #ddd;
-}
+
 
 .doorGuy {
     width: 45%;
     margin: -1% auto;
     border-radius: 9px;
-    margin-top: -22%;
+    margin-top: 10%;
     margin-bottom: 1%;
 }
 
