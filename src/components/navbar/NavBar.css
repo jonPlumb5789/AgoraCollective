@@ -3,6 +3,10 @@
 .navbar {
     background-color: #f2f2f2;
     padding: 10px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .navbar ul {
