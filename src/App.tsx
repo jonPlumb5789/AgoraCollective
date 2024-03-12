@@ -8,6 +8,7 @@ import { Routes } from 'react-router-dom'
 import Home from './components/Home/Home'
 import About from './components/About/About'
 import Contact from './components/Contact/Contact'
+import Gallery from './components/Gallery/Gallery'
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
           <Route path="/signin" element={<SignIn />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/gallery" element={<Gallery />} />
         </Routes>
       </div>
     </>
