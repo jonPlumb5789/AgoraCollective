@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://jonplumb5789.github.io/tokes-not-notes/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -12,10 +13,13 @@
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.0",
-    "@mui/icons-material": "^5.15.12",
-    "@mui/material": "^5.15.12",
+    "@headlessui/react": "^1.7.18",
+    "@mui/icons-material": "^5.15.13",
+    "@mui/material": "^5.15.13",
+    "@xenova/transformers": "^2.16.0",
     "axios": "^1.6.7",
     "dotenv": "^16.4.5",
+    "mui": "^0.0.1",
     "openai": "^4.28.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

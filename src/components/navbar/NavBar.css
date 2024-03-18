@@ -33,3 +33,7 @@
 nav.navbar {
     margin-bottom: 20px;
 }
+
+.navbar__menu{
+    z-index: 20!important;
+}
